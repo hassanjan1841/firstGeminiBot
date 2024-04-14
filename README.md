@@ -1,2 +1,1 @@
-# firstGeminiBot
-# firstGeminiBot
+# First Gemini Bot
