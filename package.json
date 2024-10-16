@@ -5,6 +5,7 @@
   "main": "gemini.js",
   "type": "module",
   "scripts": {
+    "start": "node gemini.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
